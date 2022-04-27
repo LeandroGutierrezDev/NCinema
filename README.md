@@ -1,5 +1,8 @@
-# c4-g17-m
+Proyecto de aceleración de Seniority
 No Country Cinema
+
+NCinema es una plataforma virtual que se encarga de mostrar las películas que se estan proyectando en la sala, permitiendo al usuario registrado poder acceder a la selección de la butaca disponible para su posterior reserva.
+
 
 
 Documentacion API rest Cinema
